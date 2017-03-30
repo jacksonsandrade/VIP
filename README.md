@@ -1,9 +1,9 @@
 # VIP
-:Autor: Jackson S. Andrade
-:Email: jn.eng@hotmail.com
-:Date: 30/03/2017
-:Revisão: versão final 
-:Licença: Domínio Público 
+
+Autor: Jackson S. Andrade
+Email: jn.eng@hotmail.com
+Date: 30/03/2017
+Revisão: versão final 
 
 = Projeto: 
 
