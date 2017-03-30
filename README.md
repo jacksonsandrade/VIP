@@ -1,8 +1,11 @@
 # VIP
 
 Autor: Jackson S. Andrade
+
 Email: jn.eng@hotmail.com
+
 Date: 30/03/2017
+
 Revisão: versão final 
 
 = Projeto: 
@@ -55,4 +58,4 @@ configura-lo.
 
 Para contribuir com este projeto por favor contate o autor neste email jn.eng@hotmail.com
 
-|===
+
