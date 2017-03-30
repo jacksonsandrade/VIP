@@ -41,7 +41,7 @@ configura-lo.
 
 == Passo 1: Orientação
 
-  1° Recomenda-se a leitura do arquivo "TFC2 vfinal. pdf", o qual possui toda a orientação
+   Recomenda-se a leitura do arquivo "TFC2 vfinal. pdf", o qual possui toda a orientação
    para a construção do protótipo.
 
 == Passo 2: Instalação
